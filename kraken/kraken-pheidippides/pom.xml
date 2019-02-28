@@ -25,6 +25,12 @@
             <artifactId>kraken-hermes</artifactId>
         </dependency>
 
+        <dependency>
+            <groupId>van.illusion.prometheus</groupId>
+            <artifactId>kraken-pandora</artifactId>
+            <version>0.01-SNAPSHOT</version>
+        </dependency>
+
     </dependencies>
 
     <build>

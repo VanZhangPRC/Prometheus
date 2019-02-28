@@ -1,8 +1,0 @@
-kraken\basic\jpa\orm\SystemVersion.class
-kraken\basic\config\SystemConfig.class
-kraken\basic\jpa\KRAKEN_BASIC_TABLE.class
-kraken\basic\jpa\repository\SystemVersionRepo.class
-kraken\basic\web\controller\SystemController.class
-kraken\basic\jpa\orm\SystemVersion$TERMINAL.class
-kraken\basic\KrakenBasicConfig.class
-kraken\basic\jpa\service\SystemVersionService.class

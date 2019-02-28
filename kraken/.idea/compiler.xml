@@ -13,13 +13,5 @@
         <module name="kraken-pheidippides" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="1.8">
-      <module name="kraken" target="1.8" />
-      <module name="kraken-basic" target="1.8" />
-      <module name="kraken-core" target="1.8" />
-      <module name="kraken-hermes" target="1.8" />
-      <module name="kraken-pandora" target="1.8" />
-      <module name="kraken-pheidippides" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>

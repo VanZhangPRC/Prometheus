@@ -6,10 +6,19 @@
         <artifactId>kraken</artifactId>
         <groupId>van.illusion.prometheus</groupId>
         <version>0.01-SNAPSHOT</version>
+        <relativePath>../pom.xml</relativePath>
     </parent>
+
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>kraken-pandora</artifactId>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
+        </dependency>
+    </dependencies>
 
 
 </project>

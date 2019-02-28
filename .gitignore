@@ -1,0 +1,9 @@
+target/
+.settings/
+.classpath
+.project
+bin/
+.idea/
+*.iml
+rebel.xml
+wwis-web/src/main/resources/local
